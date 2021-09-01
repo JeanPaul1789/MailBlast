@@ -3,8 +3,8 @@ require "mail"
 require "gmail"
 require "colorize"
 
-$your_email = "cocochannel.donotreply@gmail.com"
-$your_password = "Coucou1234!}"
+$your_email = "/"
+$your_password = "/"
 
 options = { 
             :address              => "smtp.gmail.com",
