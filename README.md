@@ -14,7 +14,7 @@ To use it 3 very simple steps:
      ```bash
      gem install net-smtp mail gmail colorize
      ```
-   - And now do `ruby mailblaster.rb <email of the target> <number of emails> <subject (type RANDOM for random subject)>`
+   - And now do `ruby mailblaster.rb <email of the target> <number of emails> <object(type RANDOM for random object)>`
 
 You can modify the content of the e-mail by editing the [template.txt](https://github.com/Waz0x/MailBlast/blob/main/template.txt) file. It support html
 
