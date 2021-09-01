@@ -6,7 +6,7 @@ require "colorize"
 $your_email = "/"
 $your_password = "/"
 
-options = { 
+options = {
             :address              => "smtp.gmail.com",
             :port                 => 587,
             :domain               => 'gmail.com',
