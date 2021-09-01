@@ -14,4 +14,7 @@ To use it 3 very simple steps:
      gem install net-smtp mail gmail colorize
      ```
 
+You can modify the content of the e-mail by editing the [template.txt](https://github.com/Waz0x/MailBlast/blob/main/template.txt) file. It support html
+
+
 If you have any issue signal it [here](https://github.com/Waz0x/MailBlast/issues)
