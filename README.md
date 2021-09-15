@@ -20,3 +20,5 @@ You can modify the content of the e-mail by editing the [template.txt](https://g
 
 
 If you have any issue signal it [here](https://github.com/Waz0x/MailBlast/issues)
+
+### (Don't forget to leave a star ⭐)
